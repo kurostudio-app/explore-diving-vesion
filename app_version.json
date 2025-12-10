@@ -1,16 +1,17 @@
 {
   "latest_version": "1.1.0",
-  "min_supported_version": "1.0.0",
-  "update_message": "🌊 新增墾丁潛點與修正錯誤座標\n📝 感謝名單\n,
-  "update_title": "探索潛水 v1.2.0 測試更新",
+  "min_supported_version": "1.0.0", 
+  "update_message": "本次更新帶來重要功能改進，包含新潛點、座標修正、感謝名單等多項內容。",
+  "update_title": "探索潛水 v1.1.0 更新",
   "force_update": false,
   "store_url_ios": "https://apps.apple.com/tw/app/explore-diving-%E6%8E%A2%E7%B4%A2%E6%BD%9B%E6%B0%B4/id6756210232",
-  "release_date": "2025-12-12",
+  "release_date": "2025-12-10",
   "features": [
-    "新增墾丁7個潛點、綠島一個潛點",
-    "修正錯誤座標",
-    "修改App頁面命名",
-    "更新通知機制",
-    "自由潛水連署網址"
+    "新增墾丁7個潛點、綠島1個潛點",
+    "修正多個潛點座標精度，提升導航準確性", 
+    "新增感謝名單頁面，致謝協助者",
+    "實作版本更新通知機制",
+    "新增自由潛水全民運動會連署網址",
+    "優化「設定」改為「關於」頁面設計"
   ]
 }
