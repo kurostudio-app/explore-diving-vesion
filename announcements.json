@@ -1,13 +1,13 @@
 {
   "announcements": [
     {
-      "id": "ann-2025-12-17-001",
-      "title": "歡迎使用探索潛水 v1.2",
-      "message": "感謝您使用探索潛水！本次更新帶來全新的公告系統，未來我們可以即時向您推送重要訊息。",
+      "id": "ann-2026-01-15-001",
+      "title": "探索潛水 Android 版本上架!",
+      "message": "探索潛水已經在Android與iOS同步上架!歡迎分享給朋友們下載!",
       "type": "info",
       "priority": "normal",
-      "start_date": "2025-12-17",
-      "end_date": "2025-12-31",
+      "start_date": "2026-01-15",
+      "end_date": "2025-05-30",
       "show_once": true,
       "action_url": ""
     }
