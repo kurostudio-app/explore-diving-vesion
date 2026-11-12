@@ -1,17 +1,17 @@
 {
-  "latest_version": "1.5.0",
+  "latest_version": "1.6.0",
   "min_supported_version": "1.0.0",
-  "update_title": "探索潛水 v1.5.0 新主題 🤿",
-  "update_message": "全新淺色主題登場！可自由切換 跟隨系統 / 淺色 / 深色，白天戶外查潛點更清晰。",
+  "update_title": "探索潛水 v1.6.0 地圖修復 🗺️",
+  "update_message": "地圖如果出現「API KEY REQUIRED」字樣，更新後就會恢復正常！新版地圖內建在 App 裡，離島、海邊沒訊號也能看。（Android 請至 Google Play 更新）",
   "force_update": false,
   "store_url_ios": "https://apps.apple.com/app/id6756210232",
-  "release_date": "2026-06-27",
+  "release_date": "2026-11-12",
   "features": [
-    "全新淺色主題",
-    "- 可在「設定 → 外觀」切換 跟隨系統 / 淺色 / 深色",
-    "- 地圖與狀態列配合主題明暗自動調整",
-
-    "色彩與細節優化",
-    "- 整體視覺更一致，操作更舒適"
+    "地圖修復",
+    "- 修正地圖出現「API KEY REQUIRED」的問題",
+    "內建離線地圖",
+    "- 地圖資料內建在 App 裡，沒有網路也能顯示",
+    "- 地名改為繁體中文",
+    "- 深色／淺色主題時，地圖跟著切換"
   ]
 }
