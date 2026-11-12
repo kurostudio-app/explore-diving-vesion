@@ -1,13 +1,13 @@
 {
   "announcements": [
     {
-      "id": "ann-2026-06-28-001",
-      "title": "探索潛水 v1.5.0 雙平台全新上架！🤿",
-      "message": "全新淺色主題登場！可自由切換 跟隨系統 / 淺色 / 深色，白天戶外查潛點更清晰",
+      "id": "ann-2026-11-12-001",
+      "title": "探索潛水 v1.6.0 地圖修復",
+      "message": "如果你的地圖出現「API KEY REQUIRED」字樣，請到 App Store／Google Play 更新到最新版！\n\n新版地圖改為內建在 App 裡，離島、海邊沒訊號也能正常顯示。",
       "type": "info",
-      "priority": "normal",
-      "start_date": "2026-06-28",
-      "end_date": "2026-09-30",
+      "priority": "high",
+      "start_date": "2026-11-11",
+      "end_date": "2027-06-31",
       "show_once": true,
       "action_url": ""
     }
